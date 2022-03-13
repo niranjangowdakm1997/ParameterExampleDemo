@@ -31,6 +31,8 @@ public class Example1 {
 		
 		System.out.println("I am scenario6");
 		
+		System.out.println("haii");
+		
 		
 	}
 }
