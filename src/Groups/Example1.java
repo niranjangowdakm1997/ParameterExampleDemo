@@ -28,5 +28,11 @@ public class Example1 {
 	public void test4()
 	{
 		System.out.println("I am scenario5");
+		
+		System.out.println("I am scenario6");
+		
+		System.out.println("haii");
+		
+		
 	}
 }
